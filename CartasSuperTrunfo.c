@@ -85,3 +85,5 @@ scanf ("%f", &pib2);
     printf("PIB: R$ %.2f\n", pib2);
 
     return 0;
+
+}
